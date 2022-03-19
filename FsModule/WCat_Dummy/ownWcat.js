@@ -30,4 +30,3 @@ for (let i = 0; i < fileArray.length; i++) {
  console.log(fileArray);
 
 
-hcjhdh
